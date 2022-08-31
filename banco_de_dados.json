@@ -1,0 +1,14 @@
+{
+    "eneo": {
+        "senha": "123",
+        "saldo": 100.0,
+        "movimentacoes": [
+            100.0
+        ]
+    },
+    "juliano": {
+        "senha": "42",
+        "saldo": 0.0,
+        "movimentacoes": []
+    }
+}
